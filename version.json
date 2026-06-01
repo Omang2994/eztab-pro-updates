@@ -2,7 +2,7 @@
   "version_code": 46,
   "version_name": "4.6.0",
   "release_notes": "• Added auto-update feature\n• Fixed battery drain\n• Improved DNS blocking",
-  "download_url": "sha256:4293b5a499ba364c2c0eae1104aebf8dff9cdddfd4c20a59b6e72b70399e51fb",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/tag/4.6.0",
   "force_update": false,
   "min_sdk": 21,
   "file_size_mb": 12.5,
