@@ -1,6 +1,6 @@
 {
   "version_code": 46,
-  "version_name": "4.6.0",
+  "version_name": "4.6.1",
   "release_notes": "• Added auto-update feature\n• Fixed battery drain\n• Improved DNS blocking",
   "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/4.6.1/eztab_pro_4.6.1.apk",
   "force_update": false,
