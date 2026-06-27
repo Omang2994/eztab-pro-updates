@@ -1,9 +1,9 @@
 {
-  "version_code": 47,
-  "version_name": "4.6.2",
-  "release_notes": "• Mas mabilis na drawer\n• Forever license\n• Performance at bug fixes",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.6.2/app-release.apk",
+  "version_code": 48,
+  "version_name": "4.6.3",
+  "release_notes": "• Bagong maangas na update screen\n• Mas mabilis at smooth\n• Bug fixes",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.6.3/app-release.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-06-27"
+  "release_date": "2026-06-28"
 }
