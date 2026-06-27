@@ -1,10 +1,9 @@
 {
-  "version_code": 46,
-  "version_name": "4.6.1",
-  "release_notes": "• Added auto-update feature\n• Fixed battery drain\n• Improved DNS blocking",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/4.6.1/eztab_pro_4.6.1.apk",
+  "version_code": 47,
+  "version_name": "4.6.2",
+  "release_notes": "• Mas mabilis na drawer\n• Forever license\n• Performance at bug fixes",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.6.2/app-release.apk",
   "force_update": false,
-  "min_sdk": 21,
-  "file_size_mb": 95.0,
-  "release_date": "2026-06-04"
+  "file_size_mb": 25.0,
+  "release_date": "2026-06-27"
 }
