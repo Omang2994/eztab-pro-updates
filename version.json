@@ -1,9 +1,9 @@
 {
-  "version_code": 57,
-  "version_name": "4.7.2",
-  "release_notes": "• testing\n• Mas same lang\n• para ma test lang ang update",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.2/app-release.apk",
+  "version_code": 58,
+  "version_name": "4.7.3",
+  "release_notes": "MGA BAGO\n• Centralize Mode — isang ESP32 sa WiFi para sa maraming device\n• Bagong phone drawer layout\n• Built-in timer sa Smart PisoTab, may floating timer\n• Bagong wallpapers — hiwalay na para sa landscape at portrait\n\nMGA AYOS\n• Smart PisoTab: ayos na ang kusang pag-lock at pagkadiskonekta\n• Ayos sa flicker sa Redmi/Xiaomi (drawer at home app)\n• Mas maayos na settings, wallpaper at update screen\n\nPAALALA\n• I-OFF muna ang SECURED bago mag-update",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.3/EZTAB.PRO.4.7.3.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-06-29"
+  "release_date": "2026-08-05"
 }
