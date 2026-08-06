@@ -1,9 +1,9 @@
 {
-  "version_code": 60,
-  "version_name": "4.7.5",
-  "release_notes": "Tunog ng barya kapag may nahulog, Hawakan ang floating timer ng 2 segundo para tapusin ang session",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.5/eztabpro.v4.7.5.apk",
+  "version_code": 61,
+  "version_name": "4.7.6",
+  "release_notes": "• Centralize Mode\n• Built-in timer sa Smart PisoTab\n• Bagong drawer at wallpapers\n• Tunog ng barya at babala bago maubos ang oras\n• Hold ang timer ng 2 segundo para mag-end session\n• Ayos sa Smart PisoTab na kusang nag-lock\n• Ayos sa flicker sa Redmi/Xiaomi\n\nI-OFF muna ang SECURED bago mag-update.",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.6/eztabpro.4.7.6.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-08-06"
+  "release_date": "2026-08-07"
 }
