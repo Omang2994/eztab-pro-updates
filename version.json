@@ -1,9 +1,9 @@
 {
-  "version_code": 63,
-  "version_name": "4.7.8",
+  "version_code": 64,
+  "version_name": "4.7.9",
   "release_notes": "• Babala bago maubos ang oras sa Smart PisoTab Built-in Timer\n• Auto-secure — babalik ang SECURED pagkatapos ng 5 minuto\n• Indicator kung active ang Device Owner\n• Ayos sa smart charging sa Built-in Timer\n• Ayos sa INSERT COIN pag na-rotate\n• Mas magaan sa long run — hindi na bumabagal pagkatapos ng ilang linggo\n\nI-OFF muna ang SECURED bago mag-update.",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.8/eztabpro.4.7.8.apk",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.7.9/eztabpro.4.7.9.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-08-27"
+  "release_date": "2026-08-29"
 }
