@@ -1,7 +1,7 @@
 {
   "version_code": 65,
   "version_name": "4.8.0",
-  "release_notes": "-Lock bypass sa low-end tablets-Centralize — 1 second lock/unlock flicker-Smart PisoTab (built-in timer) — biglang lock sa games at Google sign-in-Smart PisoTab (Allan timer) — biglang lock sa Google sign-in-Settings block — hiwalay na sa SECURED-Floating timer — humihiwalay ang hint bubble",
+  "release_notes": "bugs fixed -Lock bypass sa low-end tablets-Centralize — 1 second lock/unlock flicker-Smart PisoTab (built-in timer) — biglang lock sa games at Google sign-in-Smart PisoTab (Allan timer) — biglang lock sa Google sign-in-Settings block — hiwalay na sa SECURED-Floating timer — humihiwalay ang hint bubble",
   "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.0/eztabpro.v4.8.0.apk",
   "force_update": false,
   "file_size_mb": 25.0,
