@@ -1,9 +1,9 @@
 {
-  "version_code": 70,
-  "version_name": "4.8.5",
-  "release_notes": "form 4 to 6 digits pin,optimized smart pisotab built in timer, fixed minimal not noticable bugs,.",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.5/eztabpro.v4.8.5.apk",
+  "version_code": 72,
+  "version_name": "4.8.7",
+  "release_notes": "fixed bugs on infinix xpad30e/classic mode lockscreen bypass, fixed updated feature sa low internet connection.",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.7/eztabpro.v4.8.7.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-09-14"
+  "release_date": "2026-09-17"
 }
