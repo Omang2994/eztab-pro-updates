@@ -1,9 +1,9 @@
 {
-  "version_code": 72,
-  "version_name": "4.8.7",
-  "release_notes": "fixed bugs on infinix xpad30e/classic mode lockscreen bypass, fixed updated feature sa low internet connection.",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.7/eztabpro.v4.8.7.apk",
+  "version_code": 73,
+  "version_name": "4.8.8",
+  "release_notes": "What's New!!! Mas pina Enhanced ang security ni ES 2.0, Centralized Smart Charging, Auto Restart at 6am(adjustable),.",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.8/eztab.pro.v4.8.8.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-09-17"
+  "release_date": "2026-09-19"
 }
