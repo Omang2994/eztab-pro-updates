@@ -1,9 +1,9 @@
 {
-  "version_code": 73,
-  "version_name": "4.8.8",
-  "release_notes": "What's New!!! Mas pina Enhanced ang security ni ES 2.0, Centralized Smart Charging, Auto Restart at 6am(adjustable),.",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.8/eztab.pro.v4.8.8.apk",
+  "version_code": 74,
+  "version_name": "4.8.9",
+  "release_notes": "EzTab Pro Update\n• Fixed: tablet unlocked with no time after long idle\n• Fixed: tablet not locking when paid time ends (Centralize/Smart)\n• Fixed: lock flash after adding coins at 0:00\n• Fixed: EzTab not returning after restart on Itel tablets\n• Fixed: floating timer disappearing mid-session\n• New: Keep EzTab Running card (Lock Launcher + Wake Tablet)\n• New: heartbeat timer edge (green / amber / red)\n• New: Hide Timer (dot, auto-returns at 0:30)\n• Improved: cleaner timer hold menu\n• Improved: auto-restart after app update and reboot\n\nCentralize Firmware v4.7\n• Fixed: charging turning on/off when screen times out\n• Fixed: coins ignored after 49+ days uptime",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v4.8.9/eztab.pro.v4.8.9.apk",
   "force_update": false,
   "file_size_mb": 25.0,
-  "release_date": "2026-09-19"
+  "release_date": "2026-09-22"
 }
