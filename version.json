@@ -1,9 +1,10 @@
 {
-  "version_code": 78,
-  "version_name": "4.9.3",
-  "release_notes": "Fixed bugs, New Ui,Binalik ang 4 app menu sa Tablet Drawer",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v493/eztabpro.v4.9.3.apk",
+  "version_code": 79,
+  "version_name": "4.9.4",
+  "release_notes": "TESTING ONLY — DO NOT UPDATE",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v494/eztabpro.v4.9.4.apk",
   "force_update": false,
-  "file_size_mb": 25.0,
-  "release_date": "2026-10-16"
+  "file_size_mb": 34.6,
+  "release_date": "2026-10-21",
+  "brand": "eztab"
 }
