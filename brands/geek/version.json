@@ -1,10 +1,10 @@
 {
-  "version_code": 79,
-  "version_name": "4.9.4",
-  "release_notes": "TEST 2 — tamang Geek APK. Dapat MAG-UPDATE.",
-  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v494/geek.v4.9.4.apk",
+  "version_code": 80,
+  "version_name": "4.9.5",
+  "release_notes": "bugs fixed",
+  "download_url": "https://github.com/Omang2994/eztab-pro-updates/releases/download/v495/GEEK.v495.apk",
   "force_update": false,
   "file_size_mb": 37.0,
-  "release_date": "2026-10-21",
+  "release_date": "2026-10-29",
   "brand": "geek"
 }
